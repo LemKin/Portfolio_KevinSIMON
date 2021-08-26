@@ -212,6 +212,12 @@ p {
     font-size: 18px;
     width: 20px;
 }
+.nav_CV {
+    display: flex;
+}
+.nav_CV a {
+    width: 200px;
+}
 
 @media (max-width: 1000px) {
     .container {
